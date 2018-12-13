@@ -10,7 +10,7 @@ Below is a typical header for an export from SecuTrial. Note that I have hidden 
 
 ![datahead](fig/data_head.png "datahead")
 
-There are four IDs in this table. `mnppid`, `mnpdocid', `mnpptnid` and `mnpvisid`. A description of these, and some others are included in the following table.
+There are four IDs in this table. `mnppid`, `mnpdocid`, `mnpptnid` and `mnpvisid`. A description of these, and some others are included in the following table.
 
 ID name | Description
 --------|--------------
